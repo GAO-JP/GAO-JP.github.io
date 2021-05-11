@@ -3,5 +3,12 @@ layout: default
 title: About
 ---
 # About page
+永远跟党走，心中有党，事业理想。<br>
+祝老师同学万事如意，心想事成,扬帆起航。<br>
 
-This page tells you a little bit about me.
+
+▍ ★∴
+　　　 ．．．．▍▍．..．█▍ ☆ ★∵ ..../<br>
+　　　 ◥█▅▅██▅▅██▅▅▅▅▅▅▅███◤<br>
+　　　 ．◥███████████████◤<br>
+　 ～～～～◥████████████◤～～～～<br>

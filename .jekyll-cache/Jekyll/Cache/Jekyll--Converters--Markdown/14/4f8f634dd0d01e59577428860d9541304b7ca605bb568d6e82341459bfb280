@@ -1,0 +1,11 @@
+I"Y<p>markdown 练习<br /></p>
+<ul>
+  <li>我展示的是一级标题</li>
+</ul>
+
+<p><img src="https://note.youdao.com/yws/api/personal/file/WEBc0e4d7bdab3258888619951b99ea5772?method=download&amp;shareKey=80c807adb9ce47944b3eeeece1188019" alt="网页截图" /><br />
+#实验过程:<br />
+按照实验流程,逐步完成步骤1-9,并在_posts中完成markdownn内容,并完成authors内容<br />
+##实验总结:<br />
+在push到github过程中,遇到无法push的情况,原因可能是在github上新建了一个repository,将xxx.github.io原内容删除后,push到xxx.github.io,可以成功.<br /></p>
+:ET
