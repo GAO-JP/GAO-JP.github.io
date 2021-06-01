@@ -1,34 +1,4 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>Markdown</title>
-    <link rel="stylesheet" href="/assets/css/styles.css">
-  </head>
-  <body>
-      <link rel="stylesheet" href="/assets/css/styles.css">
-    <nav>
-    
-      <a href="/" >Home</a>
-    
-      <a href="/about.html" >About</a>
-    
-      <a href="/blog.html" >Blog</a>
-    
-      <a href="/staff.html" >Staff</a>
-    
-  </nav>
-    <h1>Markdown</h1>
-
-<p>
-  01 May 2020
-  
-  
-    - <a href="/authors/GAO-JP.html">GAO-JP</a>
-  
-</p>
-
-<p>markdown 练习<br /></p>
+I"�<p>markdown 练习<br /></p>
 <ul>
   <li>我展示的是一级标题</li>
 </ul>
@@ -44,6 +14,4 @@
 <p>在push到github过程中,遇到无法push的情况,原因可能是在github上新建了一个repository,将xxx.github.io原内容删除后,push到xxx.github.io,可以成功.<br />
 此外,对于本次实验的部分操作,并不是很理解,如果没有模板,难以复刻本次实验,希望在日后学习中,明白操作所代表的含义.<br />
 对于图片,目前无法控制图片大小,影响美观<br /></p>
-
-  </body>
-</html>
+:ET
